@@ -1,0 +1,2 @@
+# qiqqa-sniffer
+The Qiqqa Sniffer provides the workflow/UI/UX where you can search many websites, e.g. Google Scholar or MedArchiv, for document metadata, abstracts and/or related documents, while you view both the PDF you started with and the related documents that pop up in the search &amp; you can copy/paste any text in the source PDF document directly into the search engine query form &amp; any bibTeX or other metadata that matches your document is automatically imported (with review and the option to edit/adjust before accepting).
