@@ -51,9 +51,9 @@ Which has led us to picking a very old acquaintance of ours for the *native UI* 
 
 Of course, for us lab rats, nothing's ever easy: there's still [that bit of ho-hum 1700](https://github.com/wxWidgets/wxWidgets/pull/1700)[/706 😥](https://github.com/wxWidgets/wxWidgets/pull/706) but at least *native* WebView works straight out of the box and we have good hopes for Edge/CEF there. At least, *this* option looks like we might be able to pull this off in 2021 A.D. without indomitable roadblocks on the way towards production- & user-readiness.
 
-Meanwhile, **wxWindows** has been very stable and alive all those years while I was elsewhere; I still see the *OGs* are around, so that's also giving off a good vibe towards *future soundness of technology choice* there!
+Meanwhile, **wxWidgets** (*née wxWindows*) has been very stable and alive all those years while I was elsewhere; I still see the [*OGs*](https://www.dictionary.com/e/slang/og/) are around, so that's also giving off a good vibe towards *future soundness of technology choice* there!
 
-*Plus* a little boon for folks like me: now I don't have to re-write every darn *pixel* of the UI in bleeding edge HTML/CSS/JS web tech if I don't want to / see another *faster or more efficient* way to get there! I'll have to 👨‍🌾 refresh a bunch of things in the brains 🧓🧠 but this means that menu's and such can be done in native tech, which spares me the troubles you get when doing that stuff in a webview that's only painting **part** of the UI area -- as we would have happen in the Sniffer due to the need for separate WebView panes for user/machine safety reasons as we will be browsing *live web sites anywhere*!
+*Plus* a little boon for folks like me: now I don't have to re-write every darn *pixel* of the UI in bleeding edge HTML/CSS/JS web tech if I don't want to / see another *faster or more efficient* way to get there! I'll have to 👨‍🌾 refresh a bunch of things in the brains 🧓🧠 but this means that menus and such can be done in native tech, which spares me the troubles you get when doing that stuff in a webview that's only painting **part** of the UI area -- as we would have happen in the Sniffer due to the need for separate WebView panes for user/machine safety reasons as we will be browsing *live web sites anywhere*!
 
 But enough yakking! Let's get cookin'!
 
