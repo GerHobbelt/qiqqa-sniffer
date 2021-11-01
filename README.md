@@ -4,7 +4,7 @@ The Qiqqa Sniffer provides the workflow/UI/UX where you can **search many websit
 
 You can copy&paste *any text* from the source PDF document directly into the search engine query form to help yyou find the stuff you are looking for!
 
-When your search ("sniff seession") uncovers any bibTeX or other metadata anywhere that matches your document, this data is automatically imported (with the option to *review* and *edit/adjust* before accepting).
+When your search ("sniff session") uncovers any bibTeX or other metadata anywhere that matches your document, this data is automatically imported (with the option to *review* and *edit/adjust* before accepting).
 
 You are also enabled to edit/augment/correct any *existing* metadata for your source document in the provided editor pane, empowering you to use easy copy&paste actions from both the searched web pages and the source document itself to significantly speed up the process of metadata extraction/metadata construction/metadata quality verification.
 
